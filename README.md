@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fermarquess
-- 👀 I’m interested in HTML and CSS and I'm passionate with many kinds of art
-- 🌱 I’m currently learning HTML and CSS at https://curso em video.com
+- 👀 I’m interested in HTML and CSS and I'm passionate for many kinds of art
+- 🌱 I’m currently learning HTML and CSS at https://www.curso em video.com
 - 💞️ I’m looking to collaborate on begginer projects
-- 📫 How to reach me @actorattractor on Instagram
+- 📫 How to reach me: https://www.instagram.com/actorattractor
 
 <!---
 fermarquess/fermarquess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
