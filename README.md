@@ -3,7 +3,7 @@
 ---
 👋 Desejo boas vindas ao meu perfil aqui no [Github](https://github.com/fermarquess)!
 
-✨ Tenho conhecimentos básicos em HTML e CSS e atualmente sou estudante bolsista pelo Santander no BootCamp Fullstack Java&Angular na **[Digital Innovation One](https://www.dio.me/)**.
+✨ Tenho conhecimentos básicos em HTML e CSS e conclui recentemente em outubro-2023, o Santander BootCamp Fullstack Java&Angular pela **[Digital Innovation One](https://www.dio.me/)**.
 
 🖼️ Gosto de vários tipos de arte, sendo minhas favoritas a música e a fotografia!
 
@@ -20,7 +20,7 @@
 
 👋 Welcome to my profile here on [Github](https://github.com/fermarquess)!
 
-✨ I have basic knowledge on HTML & CSS and I'm currently a student with Santander's scholarship on the BootCamp Fullstack Java&Angular at **[Digital Innovation One](https://www.dio.me/)**.
+✨ I have basic knowledge on HTML & CSS and recently I have finished Santander's BootCamp Fullstack Java&Angular at **[Digital Innovation One](https://www.dio.me/)**.
 
 🖼️ I like many kinds of art, my favorites are music and photography!
 
