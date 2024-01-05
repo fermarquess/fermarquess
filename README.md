@@ -1,41 +1,54 @@
 
 **PT-BR**
 ---
-👋 Desejo boas vindas ao meu perfil aqui no [Github](https://github.com/fermarquess)!
 
-✨ Tenho conhecimentos básicos em HTML e CSS e conclui recentemente em outubro-2023, o Santander BootCamp Fullstack Java&Angular pela **[Digital Innovation One](https://www.dio.me/)**.
+# Olá, pessoal 👋
 
-🖼️ Gosto de vários tipos de arte, sendo minhas favoritas a música e a fotografia!
+✨ Desejo boas-vindas ao meu perfil no **[Github](https://github.com/fermarquess)**!
 
-📱Você pode se conectar comigo através das seguintes redes:
+👩‍🎓 Atualmente sou estudante de:
+
+- Desenvolvimento de software no **[Senac](https://www.ead.senac.br/)**.
+- Desenvolvimento de jogos no bootcamp Potência Tech iFood na **[Digital Innovation One](https://www.dio.me/)**.
+
+👩‍💻 Me dedico aos estudos na área de desenvolvimento full stack, adquirindo conhecimentos em HTML, CSS, Javascript, Java e outras tecnologias. 
+
+🖼️ Gosto de vários tipos de arte, sendo minhas favoritas, a música e a fotografia!
+
+💬 Você pode se conectar comigo através das seguintes redes:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fernanda-marques-dos-santos-08b406143/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/actorattractor/)
 
-
-
+---
 **EN**
 ---
 
-👋 Welcome to my profile here on [Github](https://github.com/fermarquess)!
+# Hi, hello 👋
 
-✨ I have basic knowledge on HTML & CSS and recently I have finished Santander's BootCamp Fullstack Java&Angular at **[Digital Innovation One](https://www.dio.me/)**.
+✨ Welcome to my profile here on **[Github](https://github.com/fermarquess)**!
+
+👩‍🎓 Currently I'm studying:
+
+- Software development at **[Senac](https://www.ead.senac.br/)**.
+- Game development at **[Digital Innovation One](https://www.dio.me/)**.
+
+👩‍💻 I dedicate myself to stydies on full stack development and I've been learning HTML, CSS, Javascript, Java and other stacks.
 
 🖼️ I like many kinds of art, my favorites are music and photography!
 
-📱 Connect with me:
+💬 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fernanda-marques-dos-santos-08b406143/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/actorattractor/)
 
 
-## 🛠 
+## 🛠 Principais linguagens que utilizo
 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fermarquess&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 
 
 
