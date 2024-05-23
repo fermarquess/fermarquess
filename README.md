@@ -9,7 +9,6 @@
 👩‍🎓 Atualmente sou estudante de:
 
 - Desenvolvimento de software no **[Senac](https://www.ead.senac.br/)**.
-- Desenvolvimento de jogos no bootcamp Potência Tech iFood na **[Digital Innovation One](https://www.dio.me/)**.
 
 👩‍💻 Me dedico aos estudos na área de desenvolvimento full stack, adquirindo conhecimentos em HTML, CSS, Javascript, Java e outras tecnologias. 
 
@@ -18,8 +17,6 @@
 💬 Você pode se conectar comigo através das seguintes redes:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fernanda-marques-dos-santos-08b406143/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/actorattractor/)
 
 ---
 **EN**
@@ -32,7 +29,6 @@
 👩‍🎓 Currently I'm studying:
 
 - Software development at **[Senac](https://www.ead.senac.br/)**.
-- Game development at **[Digital Innovation One](https://www.dio.me/)**.
 
 👩‍💻 I dedicate myself to stydies on full stack development and I've been learning HTML, CSS, Javascript, Java and other stacks.
 
@@ -41,8 +37,6 @@
 💬 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fernanda-marques-dos-santos-08b406143/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/actorattractor/)
 
 
 ## 🛠 Principais linguagens que utilizo
